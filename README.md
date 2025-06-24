@@ -4,6 +4,7 @@
 
 - You are expected to work on **10 questions** in the notebook found in the directory [`Day1/Qiskit_Intro.ipynb`](./Day1/Qiskit_Intro.ipynb).
 - You are also encouraged to make use of the [IBM Quantum Composer](https://quantum.ibm.com/composer) (hopefully IBM continues to support it).
+- It is also a good idea to play around with the [interactive Bloch Sphere](https://javafxpert.github.io/grok-bloch/) to understand how different quantum gates combine to affect your (1 qubit) circuit.
 
 ---
 
