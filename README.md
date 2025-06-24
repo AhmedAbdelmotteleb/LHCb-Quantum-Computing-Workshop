@@ -56,6 +56,7 @@ You can launch the entire workshop repository interactively in your browser with
     ```bash
     jupyter notebook
     ```
+    You could also use something like [`VSCode`](https://code.visualstudio.com/) if you want to open and run the Jupyter notebooks.
 
 5. Navigate to the `Day1` and `Day2` folders and open the notebooks to start working.
 
