@@ -14,7 +14,8 @@ There are multiple exercises to complete in the [`Day2`](./Day2) directory:
 
 - [Deutsch-Jozsa Algorithm Exercise](./Day2/Deutsch_Jozsa.ipynb)  
 - [QAOA Exercise](./Day2/QAOA.ipynb)  
-- [Grover's Algorithm Exercise](./Day2/Grover.ipynb)  
+- [Grover's Algorithm Exercise](./Day2/Grover.ipynb)
+- [QML Exercise](./Day2/PennyLane_QML_Example.ipynb)
 
 ---
 
@@ -65,3 +66,7 @@ You can launch the entire workshop repository interactively in your browser with
 ## Contact
 
 If you have any questions, issues, or feedback about the workshop, feel free to reach out on ahmedsamehwagih@gmail.com / ahmed.abdelmotteleb@cern.ch
+
+## Thanks
+
+Many thanks to Jacco De Vries and Xenofon Chiotopoulos for proof-reading the exercises. Xenofon also provided the QML example.
