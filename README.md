@@ -52,15 +52,16 @@ You can launch the entire workshop repository interactively in your browser with
     ```bash
     pip install -r requirements.txt
     ```
+    Note that the QML exercise requires additional requirements, which are detailed in the notebook.
 
-4. Launch Jupyter Notebook:
+5. Launch Jupyter Notebook:
 
     ```bash
     jupyter notebook
     ```
     You could also use something like [`VSCode`](https://code.visualstudio.com/) if you want to open and run the Jupyter notebooks.
 
-5. Navigate to the `Day1` and `Day2` folders and open the notebooks to start working.
+6. Navigate to the `Day1` and `Day2` folders and open the notebooks to start working.
 
 
 ## Contact
